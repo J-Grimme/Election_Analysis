@@ -1,0 +1,25 @@
+
+from lib2to3.pytree import _Results
+
+
+# Election Results
+
+# --------------------
+
+# Total Votes: 369,711
+
+# ------------------------------------------------
+
+# Charles Casper Stockham: 23.0% or (85,213 votes)
+
+# Diana DeGette: 73.8% or (272,892 votes)
+
+# Raymond Anthony Doane: 3.1% (11,606)
+
+# ------------------------------------------------
+
+# Winner: Diana DeGette
+
+# Winning Vote Count: 272,892
+
+# Winning Percentage: 73.8%
